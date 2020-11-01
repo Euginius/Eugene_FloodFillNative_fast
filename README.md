@@ -5,9 +5,7 @@ Fast native implementation of Flood fill algorithm for Android
 
 Screenshot
 
-<b>Image</b>
-
-![alt tag](https://github.com/Euginius/Eugene_FloodFillNative_fast/screen_shot.png)
+![alt tag](https://github.com/Euginius/Eugene_FloodFillNative_fast/blob/main/screen_shot.png)
 
 Credits
 </br>
