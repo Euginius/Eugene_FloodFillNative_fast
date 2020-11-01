@@ -10,7 +10,7 @@ This is fast native implementation based on original "threekkapps_library" but w
 Usage:
 ```kotlin
       NativeLib.floodFill1(bitmap, event.x.toInt(), event.y.toInt(), selectedColor,tolerance)
-    ```
+```
 
 	 
 
@@ -20,3 +20,7 @@ Based on "jnibitmap.cpp" file from
 <a href="https://github.com/mar3kk/threekkapps_library/">https://github.com/mar3kk/threekkapps_library/</a>
 </br>
 <a href="https://github.com/Euginius/threekkapps_library/">https://github.com/Euginius/threekkapps_library/</a>
+
+## License
+<a href="https://github.com/Euginius/Eugene_FloodFillNative_fast/blob/main/LICENSE"> MIT License</a>
+   
